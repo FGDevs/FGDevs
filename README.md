@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Front-end Website Engineer @KelaskitaID
+- 🌱 I’m currently learning Typescript and VueJs
+- 🤔 I’m looking for help with Typescript and TDD
+- 💬 Ask me about anything related to Javascript
+- 📫 How to reach me: fitrakadev@gmail.com
+- ⚡ Fun fact: I love games!
+
 <!--
 **FGDevs/FGDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
